@@ -3,17 +3,17 @@
 <NEWLINE>
 <NEWLINE>
 <NEWLINE>
-Bloviators are hostile cloud spirits that can be encountered at or above cloud height.
+Dmuchatory to wrogie duchy chmur, które można spotkać na lub powyżej wysokości chmur.
 <NEWLINE>
-When attacking, bloviators will usually attempt to spew gusts of wind at their targets, in an attempt to push them to their demise.
-For this reason, it is best to use ranged weaponry against bloviators, as getting close could be tricky.
+W czasie ataku dmuchatory zazwyczaj próbują zdmuchnąć swoje cele, ku swojej zgubie.
+Z tego powodu najlepiej używać broni dystansowej przeciwko dmuchatorom, ponieważ zbliżenie się do nich może być trudne.
 <NEWLINE>
-If a large bloviator is slain, it can split into multiple smaller bloviators to continue the fight. If the smallest of these is slain, they can drop a single Cloud Block.
+Jeśli duży dmuchator zostanie pokonany, może rozdzielić się na kilka mniejszych dmuchatorów, aby kontynuować walkę. Jeśli najmniejszy z nich zostanie zabity, mogą upuścić pojedynczy Blok chmury.
 <NEWLINE>
-Bloviators are also hostile towards sheep. Rumor has it that they are jealous of their puffy wool. Tiny bloviators can also be captured in a bottle, which can be used in a pinch for a jump boost.
+Dmuchatory są również wrogie wobec owiec. Plotka głosi, że są zazdrosne o ich puszystą wełnę. Małe dmuchatory można również złapać w butelkę, można jej użyć do wyższego skoku.
 <NEWLINE>
-If caught up in a rain or thunder storm, bloviators will transform into a darker variant that no longer meekly blows air at its targets. These storm bloviators instead fire lightning at their foes,
-and fighting against entire groups of them can be very difficult. Their smallest drop a Static Cloud Block instead.
+Jeśli zostaną schwytane w deszczu lub burzy z piorunami, dmuchatory przekształcą się w ciemniejszą wersję, która już nie łagodnie dmucha powietrzem w kierunku swoich celów. Te burzowe dmuchatory zamiast tego wystrzeliwują
+pioruny w kierunku swoich wrogów, a walka przeciwko całym grupom z nich może być bardzo trudna. Małe dmuchatory upuszczają wtedy Blok statycznej chmury.
 <NEWLINE>
-Cloud Blocks have several unique properties. They can be walked through and entities will sink in them, although they will not fall through. Cloud Blocks also lighten falls and can give a jump boost.
-The static properties of a Static Cloud Block can be transferred to a Balloon and back by using a Balloon on the block.
+Bloki chmury mają kilka unikalnych właściwości. Można przez nie przechodzić, a byty zatoną w nich, chociaż nie przebiją się przez nie. Bloki chmury również łagodzą upadki i mogą wzmocnić skok.
+Statyczne właściwości Bloku statycznej chmury można przenieść na Balon i z powrotem, używając Balonu na bloku.
