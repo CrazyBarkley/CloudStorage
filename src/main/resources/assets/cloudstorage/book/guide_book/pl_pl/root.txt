@@ -1,7 +1,7 @@
 <NEWLINE>
 <NEWLINE>
 <NEWLINE>
-Although you may have heard of "Cloud Storage" before, very few people know that it actually involves clouds and balloons.
-This introductory guide should leave you with a sense of pride and accomplishment for figuring out the ins-and-outs of cloud storage and the sky in general.
+Choć możesz wcześniej słyszał o "przechowywaniu w chmurze", niewielu ludzi wie, że faktycznie wiąże się to z chmurami i balonami. 
+Ten wstępny przewodnik powinien sprawić, że poczujesz dumę i satysfakcję z zrozumienia wszystkich niuansów przechowywania w chmurze i ogólnie rzecz biorąc, nieba.
 <NEWLINE>
-Chapters:
+Rozdziały:
