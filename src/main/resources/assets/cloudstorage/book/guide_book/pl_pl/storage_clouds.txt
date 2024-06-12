@@ -1,19 +1,19 @@
-To begin storing items in the cloud, you will need at least two Balloons and one Cloud Chest.
-These can be crafted like so:
+Aby rozpocząć przechowywanie przedmiotów w chmurze, będziesz potrzebować co najmniej dwóch Balonów i jednej Skrzyni Chmury. 
+Możesz je wytworzyć w następujący sposób:
 <NEWLINE>
 <NEWLINE>
-Balloons can be tied to fences for display, and can be held to slightly decrease fall damage and speed.
+Balony można przypiąć do płotów w celach wystawowych oraz trzymać, aby nieco zmniejszyć obrażenia od upadku i zwiększyć prędkość.
 <NEWLINE>
 <NEWLINE>
-Before the Cloud Chest can be used, you will need to add space to the cloud storage associated with your balloon color.
-Balloons can be dyed to be any color just like leather armor, and the color of the balloon denotes its storage space in the cloud.
-By tying a Balloon to a Chest or other inventory and sending it up into the sky, you will add the storage space of that chest to the cloud inventory associated with the Balloon's color.
+Zanim Skrzynia chmury będzie gotowa do użycia, będziesz musiał dodać miejsce do przechowywania w chmurze powiązanym z kolorem twojego balonu. 
+Balony można barwić na dowolny kolor tak samo jak zbroję skórzaną, a kolor balonu określa jego miejsce w chmurze. 
+Przypięcie Balonu do Skrzyni lub innego inwentarza i wysłanie go w górę w kierunku nieba spowoduje dodanie przestrzeni magazynowej tej skrzyni do inwentarza chmury powiązanego z kolorem Balonu.
 <NEWLINE>
-After you have successfully uploaded a chest to the cloud, place a balloon of that same color on a Cloud Chest to link it. Note that Cloud Chests must have sky access to work, and will not work underground or in the Nether.
-This Cloud Chest's inventory is linked exclusively to you, and cannot be accessed by anyone else, even hoppers and other inventories - just like an ender chest. In order to create a cloud inventory that is accessible to everyone, you must craft a Static Cloud Chest from Static Cloud Blocks.
+Po pomyślnym przesłaniu skrzyni do chmury, umieść balon tego samego koloru na Skrzyni chmury, aby go połączyć. Należy pamiętać, że Skrzynie chmury muszą być pod gołym niebem, aby działać, i nie będą działać pod ziemią ani w Netherze.
+Inwentarz tej Skrzyni chmury jest wyłącznie powiązany z tobą i nie może być dostępny dla nikogo innego, nawet przez lejki i inne inwentarze - tak jak skrzynia enderowa. Aby utworzyć inwentarz chmury, do którego mają dostęp wszyscy, musisz wytworzyć Skrzynię statycznej chmury z Bloków statycznej chmury.
 <NEWLINE>
-To upload inventory space to a Static Cloud Chest, you must use a static Balloon, which can be obtained by using a Balloon on a Static Cloud Block. Any chest uploaded with a normal Balloon will simply be added to your private cloud storage!
+Aby przesłać miejsce w inwentarzu do Skrzyni statycznej chmury, musisz użyć Statycznego balonu, który można uzyskać, używając Balonu na Bloku statycznej chmury. Każda skrzynia przesłana za pomocą zwykłego Balonu zostanie po prostu dodana do twojego prywatnego przechowywania w chmurze!
 <NEWLINE>
-All Cloud Chests can be scrolled through(if large enough) and can be sorted or searched by using the helpful buttons on the left. If your Cloud Storage is too full, simply upload additional chests by tying them to a Balloon of the same color. Yes. It's that easy.
+Wszystkie Skrzynie chmury można przewijać (jeśli są wystarczająco duże) i można je sortować lub wyszukiwać za pomocą przydatnych przycisków po lewej stronie. Jeśli twoje miejsce w Chmurze się kończy, po prostu przesyłaj kolejne skrzynie, przypinając je do Balonu tego samego koloru. Tak. To takie proste.
 <NEWLINE>
-If you still have some extra balloons left, you can combine one with eight arrows to create balloon arrows, which will fly straight, unhindered by gravity. If they hit a mob, that mob will float upwards for a short period of time.
+Jeśli nadal masz kilka dodatkowych balonów, możesz połączyć jeden z ośmioma strzałami, aby stworzyć strzały balonowe, które będą latać prosto, niepohamowane przez grawitację. Jeśli trafią one w moba, mob ten będzie unoszony w górę na krótki czas.
