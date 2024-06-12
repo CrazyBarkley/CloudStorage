@@ -1,17 +1,17 @@
 <NEWLINE>
 <NEWLINE>
 <NEWLINE>
-You are not alone in your bizarre interest into balloons and clouds of all things... obviously.
-In villages all across the world, Balloon Salesmen and their trusty Balloon Stands can be found.
-And if you cannot find a Balloon Stand, you can always craft one.
+W swoim dziwacznym zainteresowaniu balonami i chmurami nie jesteś sam... oczywiście.
+W wioskach na całym świecie można znaleźć Sprzedawców balonów i ich wiernie towarzyszące Stoiska z balonami. 
+A jeśli nie można znaleźć Stoiska z Balonami, zawsze można je wytworzyć.
 <NEWLINE>
 <NEWLINE>
-Like fences, Balloons can be tied to Balloon Stands for display purposes. String can be used on a balloon to make its string longer.
+Podobnie jak płotki, Balony można przypiąć do Stoisk z balonami w celach wystawowych. Na balonie można użyć nici, aby wydłużyć jego sznurek.
 <NEWLINE>
-But these Balloon Stands have another use. One can place a Balloon in their top slot to view statistics about the cloud storage linked to the Balloon,
-and the exact color of the Balloon. If a second Balloon is placed in the slot below, one can copy the color of the first Balloon to the second. This can streamline the process of making colorful and complex cloud storage systems.
+Stoiska z balonami mają jeszcze jedno zastosowanie. Można umieścić Balon w ich górnym slocie, aby zobaczyć statystyki dotyczące chmury skrzyni 
+oraz dokładny kolor Balonu. Jeśli w dolnym slocie umieści się drugi Balon, można skopiować kolor pierwszego na drugi. Może to ułatwić proces tworzenia kolorowych i złożonych chmur skrzyń.
 <NEWLINE>
-The villager who lingers around these stands peddles Balloons, amongst other things. One of these items is a Propeller Hat, which spins faster depending on whether it is a clear day or raining. Another one is Cotton Candy, a quick food item made out of a Cloud Block and sugar.
+Osadnik, który kręci się wokół tych stoisk, handluje Balonami, między innymi. Jednym z tych przedmiotów jest Czapka ze śmigłem, które kręci się szybciej w zależności od tego, czy jest pogodny dzień czy pada deszcz. Innym jest Wata cukrowa, szybki przysmak zrobiony z Bloku chmury i cukru.
 <NEWLINE>
-Occasionally, these villagers may sell a map to a Sky Temple or a Big Balloon. These structures contain spawners and Cloud Chests with Loot Balloons. Unlike normal Balloons, Loot Balloons are uncraftable, and when placed into a Cloud Chest they can reward you with unique items. They cannot be used to upload items, or be dyed, however.
-These structures can be dangerous, given their height, and it's likely whoever constructed them could have laid traps there as well...
+Czasami ci osadnicy mogą sprzedawać mapę do Podniebnej świątyni lub Dużego Balonu. Te struktury zawierają spawnery i Skrzynie chmury z Balonami łupu. W przeciwieństwie do normalnych Balonów, Balony łupu nie są możliwe do wytworzenia, a gdy zostaną umieszczone w Skrzyni chmury, mogą nagrodzić cię unikalnymi przedmiotami. Nie mogą być używane do przesyłania przedmiotów ani barwione, jednakże.
+Te struktury mogą być niebezpieczne ze względu na swoją wysokość, i prawdopodobnie ten, kto je zbudował, mógł tam również ułożyć pułapki...
