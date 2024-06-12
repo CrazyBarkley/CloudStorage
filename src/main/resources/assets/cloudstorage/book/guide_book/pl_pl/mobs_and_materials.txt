@@ -1,35 +1,9 @@
-{
-  "parent": "root.json",
-  "text": "mobs_and_materials.txt",
-  "title": "Of Mobs and Materials",
-  "entity_buttons": [
-  ],
-  "linked_page_buttons": [
-    {
-      "linked_page": "badloon.json",
-      "text": "Badloon",
-      "x": 290,
-      "y": 20,
-      "page": 0
-    },
-    {
-      "linked_page": "bloviator.json",
-      "text": "Bloviator",
-      "x": 290,
-      "y": 70,
-      "page": 0
-    }
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
-  "recipes": [
-
-  ],
-  "tabula_renders": [
-
-  ],
-  "entity_renders": [
-  ]
-}
+Aby rozpocząć przechowywanie w chmurze, będziesz potrzebować kilku zasobów. 
+Większość z nich można zdobyć poprzez pokonanie wrogich mobów. Głównie chodzi o Niecnego balona i Dmuchatora. 
+Te moby są kluczowe do uzyskania Kawałków balonu i Bloków chmury, ale znalezienie ich i pokonanie może być niełatwym zadaniem...
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+<NEWLINE>
+Gdy już zgromadzisz kilka Kawałków balonu i Bloków chmury, możesz wreszcie zacząć przechowywać swoje rzeczy w chmurze.
